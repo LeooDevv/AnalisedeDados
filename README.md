@@ -18,11 +18,10 @@ O sistema analisa **5.000 perfis de clientes** com variáveis socioeconômicas, 
 
 ## 👥 Equipe
 
-| Integrante | RM | Responsabilidade |
-|:---|:---|:---|
-| **[Nome 1]** | [00.0000-0] | Engenharia de Dados / ETL / Star Schema |
-| **[Nome 2]** | [00.0000-0] | Machine Learning / Modelagem Preditiva |
-| **[Nome 3]** | [00.0000-0] | BI / Dashboard / Integração GenAI |
+* **Davi Teramoto Matheus**
+* **Gustavo Henrique Portari de Oliveira**
+* **João Vitor Antunes Nascimento**
+* **Leonardo de Carlos Rodrigues**
 
 ---
 
@@ -78,13 +77,13 @@ Transformação de dados preditivos em valor estratégico para o negócio.
 
 ## 📺 Apresentação e Demonstração
 
-> 🎥 **[ASSISTIR AO VÍDEO DO PITCH (2 MIN)](LINK_DO_VIDEO_AQUI)**
+> 🎥 **[ASSISTIR AO VÍDEO DO PITCH (2 MIN)]**
 > *Problema de negócio, arquitetura do pipeline e demonstração ao vivo do dashboard.*
 
-> 🤖 **[ACESSAR AGENTE DE INSIGHTS — GOOGLE AI STUDIO](LINK_DO_STUDIO_AQUI)**
+> 🤖 **[ACESSAR AGENTE DE INSIGHTS — GOOGLE AI STUDIO]**
 > *Interaja com a IA treinada para analisar carteiras de crédito e gerar recomendações.*
 
-> 📊 **[ACESSAR DASHBOARD (STREAMLIT)](LINK_STREAMLIT_AQUI)**
+> 📊 **[ACESSAR DASHBOARD (STREAMLIT)]**
 > *Dashboard interativo com filtros OLAP, KPIs e integração com Gemini.*
 
 ---
