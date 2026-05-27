@@ -18,10 +18,10 @@ O sistema analisa **5.000 perfis de clientes** com variáveis socioeconômicas, 
 
 ## 👥 Equipe
 
-* **Davi Teramoto Matheus**
-* **Gustavo Henrique Portari de Oliveira**
-* **João Vitor Antunes Nascimento**
-* **Leonardo de Carlos Rodrigues**
+* **Davi Teramoto Matheus** - 082220036
+* **Gustavo Henrique Portari de Oliveira** - 082210041
+* **João Vitor Antunes Nascimento** - 082210016
+* **Leonardo de Carlos Rodrigues** - 082220038
 
 ---
 
